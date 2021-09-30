@@ -1,0 +1,18 @@
+{
+  "name": "web3-learn",
+  "version": "1.0.0",
+  "description": "web 3 learing from dapp university",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tariq Saeed",
+  "license": "MIT",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.3.0",
+    "dotenv": "^10.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "underscore-node": "^0.1.2",
+    "web3": "^1.5.3"
+  }
+}
